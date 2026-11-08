@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn>=1.2
+imbalanced-learn>=0.10
+tensorflow>=2.12
+kagglehub
+jupyter
